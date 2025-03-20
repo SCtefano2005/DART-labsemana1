@@ -1,5 +1,5 @@
 # DART-labsemana1
-ejercicio planteado
+
 void main() {
   List<int> numeros = [1, 23, 35, 46, 58, 69, 790, 80, 93, 10];
 
